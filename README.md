@@ -12,8 +12,8 @@
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/YifanLiu61f/fgvc-comp-2025.git
-   cd fathomnet-2025-team9
+   git clone 
+
 
 2.	**Create & activate your Python environment**
 We recommend Python 3.8+ and conda:
