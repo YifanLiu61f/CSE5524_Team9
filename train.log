@@ -1,0 +1,34 @@
+2025-04-26 09:43:39,690 | Run dir: ../../output/exp7_dinov2
+2025-04-26 09:43:39,690 | Device  : cuda
+2025-04-26 09:44:10,256 | Epoch 01 | train_loss 2.1539 | val_loss 1.9478 | top1 0.693 | top3 0.865 | P/R/F1 0.743/0.692/0.690 | epoch_time 29.5s
+2025-04-26 09:44:39,922 | Epoch 02 | train_loss 1.7107 | val_loss 1.9330 | top1 0.703 | top3 0.865 | P/R/F1 0.748/0.703/0.700 | epoch_time 28.9s
+2025-04-26 09:45:09,562 | Epoch 03 | train_loss 1.5703 | val_loss 1.9398 | top1 0.708 | top3 0.868 | P/R/F1 0.743/0.710/0.704 | epoch_time 28.9s
+2025-04-26 09:45:36,508 | Backbone unfrozen with lr 1.0e-05
+2025-04-26 09:45:39,445 | Epoch 04 | train_loss 1.4827 | val_loss 1.9206 | top1 0.714 | top3 0.872 | P/R/F1 0.743/0.716/0.711 | epoch_time 29.1s
+2025-04-26 09:46:45,618 | Epoch 05 | train_loss 1.5963 | val_loss 1.3859 | top1 0.817 | top3 0.951 | P/R/F1 0.834/0.818/0.814 | epoch_time 65.4s
+2025-04-26 09:47:51,665 | Epoch 06 | train_loss 1.2171 | val_loss 1.3423 | top1 0.829 | top3 0.953 | P/R/F1 0.855/0.834/0.829 | epoch_time 65.2s
+2025-04-26 09:48:57,868 | Epoch 07 | train_loss 1.0585 | val_loss 1.2779 | top1 0.854 | top3 0.960 | P/R/F1 0.869/0.856/0.855 | epoch_time 65.4s
+2025-04-26 09:50:04,154 | Epoch 08 | train_loss 0.9578 | val_loss 1.2817 | top1 0.846 | top3 0.954 | P/R/F1 0.857/0.850/0.845 | epoch_time 65.2s
+2025-04-26 09:51:10,425 | Epoch 09 | train_loss 0.8961 | val_loss 1.2173 | top1 0.873 | top3 0.959 | P/R/F1 0.882/0.872/0.871 | epoch_time 65.5s
+2025-04-26 09:52:16,605 | Epoch 10 | train_loss 0.8608 | val_loss 1.2284 | top1 0.866 | top3 0.962 | P/R/F1 0.874/0.869/0.866 | epoch_time 65.4s
+2025-04-26 09:53:22,696 | Epoch 11 | train_loss 0.8370 | val_loss 1.2183 | top1 0.870 | top3 0.962 | P/R/F1 0.877/0.870/0.867 | epoch_time 65.3s
+2025-04-26 09:54:28,738 | Epoch 12 | train_loss 0.8195 | val_loss 1.2019 | top1 0.875 | top3 0.957 | P/R/F1 0.878/0.878/0.875 | epoch_time 65.3s
+2025-04-26 09:55:34,805 | Epoch 13 | train_loss 0.8059 | val_loss 1.2048 | top1 0.875 | top3 0.956 | P/R/F1 0.880/0.876/0.873 | epoch_time 65.3s
+2025-04-26 09:56:40,933 | Epoch 14 | train_loss 0.7950 | val_loss 1.1966 | top1 0.881 | top3 0.958 | P/R/F1 0.882/0.882/0.879 | epoch_time 65.4s
+2025-04-26 09:57:46,939 | Epoch 15 | train_loss 0.7854 | val_loss 1.1742 | top1 0.877 | top3 0.962 | P/R/F1 0.878/0.876/0.874 | epoch_time 65.2s
+2025-04-26 09:58:52,923 | Epoch 16 | train_loss 0.7780 | val_loss 1.1709 | top1 0.880 | top3 0.963 | P/R/F1 0.882/0.881/0.879 | epoch_time 65.2s
+2025-04-26 09:59:59,127 | Epoch 17 | train_loss 0.7720 | val_loss 1.1811 | top1 0.881 | top3 0.956 | P/R/F1 0.885/0.883/0.881 | epoch_time 65.4s
+2025-04-26 10:01:05,321 | Epoch 18 | train_loss 0.7671 | val_loss 1.1769 | top1 0.881 | top3 0.963 | P/R/F1 0.881/0.882/0.879 | epoch_time 65.4s
+2025-04-26 10:02:11,702 | Epoch 19 | train_loss 0.7635 | val_loss 1.1659 | top1 0.884 | top3 0.965 | P/R/F1 0.884/0.885/0.883 | epoch_time 65.6s
+2025-04-26 10:03:17,965 | Epoch 20 | train_loss 0.7604 | val_loss 1.1598 | top1 0.886 | top3 0.965 | P/R/F1 0.889/0.887/0.885 | epoch_time 65.5s
+2025-04-26 10:04:24,043 | Epoch 21 | train_loss 0.7582 | val_loss 1.1615 | top1 0.885 | top3 0.966 | P/R/F1 0.887/0.886/0.884 | epoch_time 65.3s
+2025-04-26 10:05:30,233 | Epoch 22 | train_loss 0.7572 | val_loss 1.1575 | top1 0.883 | top3 0.966 | P/R/F1 0.884/0.885/0.883 | epoch_time 65.4s
+2025-04-26 10:06:36,401 | Epoch 23 | train_loss 0.7560 | val_loss 1.1486 | top1 0.891 | top3 0.969 | P/R/F1 0.892/0.892/0.890 | epoch_time 65.4s
+2025-04-26 10:07:42,645 | Epoch 24 | train_loss 0.7553 | val_loss 1.1662 | top1 0.887 | top3 0.966 | P/R/F1 0.890/0.889/0.887 | epoch_time 65.4s
+2025-04-26 10:08:48,813 | Epoch 25 | train_loss 0.7547 | val_loss 1.1607 | top1 0.886 | top3 0.966 | P/R/F1 0.889/0.888/0.886 | epoch_time 65.4s
+2025-04-26 10:09:54,903 | Epoch 26 | train_loss 0.7540 | val_loss 1.1529 | top1 0.889 | top3 0.969 | P/R/F1 0.891/0.891/0.889 | epoch_time 65.4s
+2025-04-26 10:11:00,863 | Epoch 27 | train_loss 0.7537 | val_loss 1.1484 | top1 0.888 | top3 0.969 | P/R/F1 0.889/0.889/0.887 | epoch_time 65.2s
+2025-04-26 10:12:06,912 | Epoch 28 | train_loss 0.7535 | val_loss 1.1546 | top1 0.888 | top3 0.970 | P/R/F1 0.890/0.889/0.888 | epoch_time 65.3s
+2025-04-26 10:13:13,063 | Epoch 29 | train_loss 0.7534 | val_loss 1.1585 | top1 0.888 | top3 0.969 | P/R/F1 0.890/0.889/0.887 | epoch_time 65.4s
+2025-04-26 10:14:19,102 | Epoch 30 | train_loss 0.7533 | val_loss 1.1582 | top1 0.889 | top3 0.968 | P/R/F1 0.890/0.890/0.888 | epoch_time 65.3s
+2025-04-26 10:14:19,846 | Training complete in 30.7 min
