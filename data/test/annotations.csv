@@ -1,6 +1,6 @@
 path,label
-data/test/rois/1_1.png,
-data/test/rois/2_2.png,
-data/test/rois/2_3.png,
-data/test/rois/2_4.png,
-data/test/rois/2_5.png,
+./CSE5524_Team9/data/test/rois/1_1.png,
+./CSE5524_Team9/data/test/rois/2_2.png,
+./CSE5524_Team9/data/test/rois/2_3.png,
+./CSE5524_Team9/data/test/rois/2_4.png,
+./CSE5524_Team9/data/test/rois/2_5.png,
